@@ -1,0 +1,273 @@
+{
+  "heading": "Subject, Predicate and their types",
+  "topics": [
+    {
+      "heading": "Subject, Predicate and their types ",
+      "questions": [
+        {
+            "questionNo": 1,
+            "question": "Subjects can only include a ‘Noun or a Noun Equivalent’.",
+            "options": [
+                "Correct",
+                "Incorrect"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 2,
+            "question": "Predicates can be phrases.",
+            "options": [
+                "Correct",
+                "Incorrect"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 3,
+            "question": "I and Ryan prefer hot chocolate. In the above sentence the subject is:",
+            "options": [
+                "Simple",
+                "Complete",
+                "Compound",
+                "Both b and c"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 4,
+            "question": "Regular adjectives are a part of:",
+            "options": [
+                "Pre-modifiers",
+                "Complete Predicates",
+                "Objects",
+                "All of the above"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 5,
+            "question": "Subordinating conjunctions can help in the formation of Compound subjects and Predicates.",
+            "options": [
+                "Correct",
+                "Incorrect"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 6,
+            "question": "A post-modifier includes:",
+            "options": [
+                "Pronouns",
+                "Nouns",
+                "Articles",
+                "None of the above"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 7,
+            "question": "The sun rises in the east. <br>‘The sun’ is the:",
+            "options": [
+                "Compound subject",
+                "Simple subject",
+                "Complete subject",
+                "Both A and B"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 8,
+            "question": "I have been waiting since yesterday. <br>The verb phrase in the sentence is:",
+            "options": [
+                "Have been",
+                "Waiting since",
+                "Have been waiting",
+                "Both A and B"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 9,
+            "question": "It is difficult to adjust with nasty people.<br> The complete predicate of the above sentence includes",
+            "options": [
+                "Is difficult to adjust",
+                "With nasty people",
+                "Is difficult to adjust with nasty people",
+                "To adjust"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 10,
+            "question": "Determiners include:",
+            "options": [
+                "6 components",
+                "5 components",
+                "7 components",
+                "4 components"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 11,
+            "question": "Some fresh fruits, sourdough bread, raspberry jam and a simple tofu salad was my breakfast today. <br>The compound subject in the sentence is:",
+            "options": [
+                "Some fresh fruits, sourdough bread, raspberry jam and a simple tofu salad",
+                "fruits, sourdough bread, raspberry jam and a simple tofu salad",
+                "fruits, sourdough bread, raspberry jam and a tofu salad",
+                "fruits, sourdough bread, raspberry jam and tofu salad",
+                "fruits, sourdough bread, raspberry jam and a simple tofu salad"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 12,
+            "question": "Simple predicates include:",
+            "options": [
+                "Modifiers",
+                "Objects",
+                "Complements",
+                "None of the above"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 13,
+            "question": "She came home. <br>The above sentence has a verb phrase.",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 14,
+            "question": "Identify the modifiers in the sentence below: <br>The matter is completely off-hand now.",
+            "options": [
+                "The, completely off-hand",
+                "The, now",
+                "The, completely",
+                "The, is completely"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 15,
+            "question": "Move. <br>The subject in this sentence is:",
+            "options": [
+                "You",
+                "Not mentioned but understood",
+                "Passive",
+                "Both A and B"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 16,
+            "question": "An infinitive phrase can be a part of:",
+            "options": [
+                "Pre-modifier",
+                "Post-modifier",
+                "Both A and B",
+                "None of the above"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 17,
+            "question": "How are you? <br>What is the subject in the sentence",
+            "options": [
+                "Simple subject",
+                "Not clear",
+                "You",
+                "The sentence does not have any subject."
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 18,
+            "question": "The girl in the cyan dress is my sister. <br>Identify the post-modifier.",
+            "options": [
+                "Cyan dress",
+                "In the cyan dress",
+                "Is my sister",
+                "Both B and C"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 19,
+            "question": "Not only my siblings but I am also in support of the victim’s family.<br> What is correct about the above sentence?",
+            "options": [
+                "The sentence has a compound subject.",
+                "Both A and B"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 20,
+            "question": "In a sentence, a ‘pronoun’ can also be the subject.",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 21,
+            "question": "He constructed the Na’eem house and founded the charity hospital.<br> The complete predicate of the sentence contains:",
+            "options": [
+                "Two finite verbs",
+                "Two objects",
+                "Two modifiers",
+                "All of the above"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 22,
+            "question": "There are only three ways of forming a complete subject.",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 23,
+            "question": "Who is this?<br> Identify the subject.",
+            "options": [
+                "Who",
+                "This",
+                "Both a and b",
+                "None of the above"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 24,
+            "question": "Can a compound subject be a combination of two or more(generally two) simple subjects or complete subjects?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 25,
+            "question": "Numbers are a part of:",
+            "options": [
+                "Determiners",
+                "Pre-modifiers",
+                "Both A and B",
+                "None of the above"
+            ],
+            "answer": 2
+        }
+    ]
+    
+    
+    
+    }
+  ]
+}
